@@ -14,7 +14,7 @@ steps :
 ![how to use](guide_pics/how_to_use.png)
 
 how it works :
-in the vertex shader there is 4 custom vec4 (4D vector) of 32 bit floating point numbers. you can access them via `CUSTOM0`, `CUSTOM1`, `CUSTOM2` and `CUSTOM3`.
+in the vertex shader there is 4 custom vec4 (4D vector of 32 bit floating point numbers). you can access them via `CUSTOM0`, `CUSTOM1`, `CUSTOM2` and `CUSTOM3`.
 you can use a `MeshDataTool` and call the functions `set_vertex_custom0` with a Color as input to alter the data. then you can commit the changes to the mesh.
 
 keep in mind that in godot 4 the option to remove a single surface from an `ArrayMesh` seems to have been removed so you will need to recommit the entire mesh. even the surfaces you don't alter.
