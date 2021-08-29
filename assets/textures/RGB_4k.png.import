@@ -1,0 +1,26 @@
+[remap]
+
+importer="2d_array_texture"
+type="StreamTexture2DArray"
+uid="uid://dhc4nuq2ebgf4"
+path="res://.godot/imported/RGB_4k.png-d84a4e89e3329443eff74a2e60fff2be.stexarray"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/textures/RGB_4k.png"
+dest_files=["res://.godot/imported/RGB_4k.png-d84a4e89e3329443eff74a2e60fff2be.stexarray"]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_compression=0
+compress/bptc_ldr=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+slices/horizontal=8
+slices/vertical=8

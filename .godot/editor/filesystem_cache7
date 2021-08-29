@@ -1,0 +1,16 @@
+3844edc3d1660e6e25a999aafc25a878
+::res://::1630236118
+default_env.tres::Environment::2814658181685311588::1630222100::0::1::::<><>::
+icon.png::StreamTexture2D::4975386897593834498::1630219972::1630236122::1::::<><>::
+meshModifier.gd::GDScript::-1::1630222096::0::1::::<>ArrayMesh<>::
+Node3D.tscn::PackedScene::2091860709437204507::1630222100::0::1::::<><>::uid://bpveakdf8nrsq<>uid://bgdpako0kilqy
+::res://assets/::1630220641
+::res://assets/materials/::1630220889
+textuer_array_albedo_test_material.material::ShaderMaterial::8181535842317349162::1630220889::0::1::::<><>::res://assets/shaders/textuer_array_albedo_test_material.gdshader<>uid://dhc4nuq2ebgf4
+::res://assets/meshes/::1630222200
+DualSurfaceMesh.mesh::ArrayMesh::3482848669209630096::1630221636::0::1::::<><>::uid://dotgx2gh8pyvy<>res://meshModifier.gd
+DualSurfaceMesh.obj::Mesh::1264567345818365824::1630219624::1630236122::1::::<><>::
+::res://assets/shaders/::1630222238
+textuer_array_albedo_test_material.gdshader::Shader::-1::1630222238::0::1::::<><>::
+::res://assets/textures/::1630222200
+RGB_4k.png::StreamTexture2DArray::7656497796580662279::1629280956::1630236122::1::::<><>::

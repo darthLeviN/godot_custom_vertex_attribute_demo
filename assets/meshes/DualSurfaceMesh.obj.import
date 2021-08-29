@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://satie1s72doa"
+path="res://.godot/imported/DualSurfaceMesh.obj-bdc21229c24bb76ca3a8d6d97a9b117e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/DualSurfaceMesh.obj-bdc21229c24bb76ca3a8d6d97a9b117e.mesh"]
+
+source_file="res://assets/meshes/DualSurfaceMesh.obj"
+dest_files=["res://.godot/imported/DualSurfaceMesh.obj-bdc21229c24bb76ca3a8d6d97a9b117e.mesh", "res://.godot/imported/DualSurfaceMesh.obj-bdc21229c24bb76ca3a8d6d97a9b117e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
