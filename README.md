@@ -17,7 +17,7 @@ how it works :
 in the vertex shader there is 4 custom vec4 (4D vector of floating point numbers). you can access them via `CUSTOM0`, `CUSTOM1`, `CUSTOM2` and `CUSTOM3`.
 you can use a `MeshDataTool` and call the functions like `set_vertex_custom` with a Color as input to alter the data. then you can commit the changes to the mesh.
 
-the `cidx` parameter selects from `CUSTOM0-3`
+the `cidx` parameter selects from `CUSTOM0-3`.
 only one of the parameters (customf and customu) is used. it depends on the data type. if no type is selected the data type will default to RGBA_FLOAT
 
 the get functions (for example `get_vertex_custom`) can also be used to retrieve the vertex's custom attribute as a `Color` or a `PackedByteArray` depending on it's data type.
