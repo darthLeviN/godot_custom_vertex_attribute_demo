@@ -18,7 +18,7 @@ func resetSurfaces():
 		if(i < surfaceColors.size()):
 			var color : Color = Color(surfaceColors[i],0,0,0)
 			for j in range(dataTool.get_vertex_count()):
-				dataTool.set_vertex_custom(j, 0, color)
+				dataTool.set_vertex_custom_float(j, 0, color)
 				# the color can be read from "CUSTOM0".
 				# values are not clamped so no worries there.
 		dataTools.append(dataTool)
